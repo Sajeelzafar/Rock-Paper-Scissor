@@ -1,0 +1,22 @@
+* {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.diagram {
+    display: flex;
+    gap: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+img {
+    width: 250px;
+    height: 400px;
+}
+
+h1{
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+}
